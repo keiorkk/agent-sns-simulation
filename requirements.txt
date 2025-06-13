@@ -1,0 +1,6 @@
+openai
+transformers
+pytest
+jsonlines
+pydantic
+ollama
