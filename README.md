@@ -23,3 +23,4 @@ I implemented the main simulation logic and agent behavior models, including:
 1. Create a `keys.py` with your OpenAI API key:
 ```python
 OPENAI_API_KEY = "your-api-key"
+# The API key shown here has been disabled and is no longer valid.
